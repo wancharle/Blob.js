@@ -1,0 +1,19 @@
+{
+  "name": "Blob.js",
+  "main": "Blob.js",
+  "homepage": "https://github.com/wancharle/Blob.js",
+  "authors": [
+    "Wancharle Sebastiao Quirino <wancharle.quirino@wowtec.com.br>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
